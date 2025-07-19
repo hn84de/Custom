@@ -1,1 +1,1 @@
-This a project for custom code in C++, mainly utilities but also for algorithms and other general code.
+This a project for custom code in C++, mainly utilities but also for algorithms and other general code. Include the `Custom.hpp` file.
