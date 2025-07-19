@@ -1,6 +1,6 @@
 #include "StandardHeaderIncludes.hpp"
 
-namespace Utils
+namespace Custom
 {
     class Timer
     {
